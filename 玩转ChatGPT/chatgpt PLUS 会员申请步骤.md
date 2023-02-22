@@ -1,64 +1,59 @@
-**请注意风险！**
+ChatGPT一夜刷屏，由于不可抗力原因很多人都在问怎么注册，某宝一个账号竟然炒到几十元人民币，enmmmm果然处处是商机，鉴于我多年科学经验，所以分享给大家一个更便宜的方式去注册账号，本篇文章面向对象是对“代理”这些内容有一定了解的人，你要是不懂也别问我。
 
-今天弄了 **2个chatgpt plus会员** ，第一个是淘宝买的虚拟信用卡，太贵。第二个，决定自己动手。
+### 第一步
 
-第一次听说虚拟信用卡，到自己摸索完成，前后30分钟，很便捷。
+打开你的“代理”（我用openwrt这个固件做的演示，不同代理大差不差，懂的都懂）这里关键的两个点1是用非香港，如美国、新加坡之类的，2是运行模式要用全局，总之要有神奇上网能力。
 
-**花费：充值一次，至少500元，** 实际花费一个月的20刀，实际只需要：开卡费3.5$+充值21$+充值金额21$*3%= **180元人民币不到。**
+![img](./assets/(null)-20230222142426767.(null))
 
-需要工具： **实名绑定的微信号、手机号、微信付费，最低充值金额500元。**
+### 第二步
 
-1. **确认自己付费，有plus入口** ：先登录到openai账号，找到左侧的plus标志。进入，预定，付款详情的界面。 （不然就先解决，plus入口的问题）
-2. 
-3. **注册开卡平台** ： 进入开卡平台的网址：https://nobepay.com/
-4. ，注册账号，根据提示，一步步绑定手机、微信，实名认证等步骤，扫码绑定微信进行收付款。
-5. 
-6. **充值** ：最小充值金额是500元人民币。
-7. 
-8. **开卡** ：点击左侧，我的卡片 ，如果只给自己开卡，点击左上的“开卡”，出现如下界面。
+有了神奇上网能力之后，准备好几个网站一会儿要分别用到：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGYxOWYwODA1NGRkNWFkMzlhY2IyMDNiOTc4ODk1ZDVfMjRSSmVkak1HV29sSk03WjJpOHRoVWFrNUVPWTMxU1lfVG9rZW46Ym94Y25VQ1ZmYlFrSUNrZkJNUXVGUHhBT0xoXzE2NzcwMzYwMTM6MTY3NzAzOTYxM19WNA)
+1. [https:// openai.com/api ](https://link.zhihu.com/?target=https%3A//openai.com/api)
+2. [https:// sms-activate.org/cn/get Number ](https://link.zhihu.com/?target=https%3A//sms-activate.org/cn/getNumber)
+3. [https:// chat.openai.com ](https://link.zhihu.com/?target=https%3A//chat.openai.com)
 
-4. **填写开卡信息** ：
+先打开第一个网站进行注册，不要让网站使用你的 Cookie ，点击注册之后用邮箱注册也可以或用 Google 账号随你，卡点不在这儿，根据提示下一步。
 
-需要依次选择号段、输入姓、名、街道地址、城市、州、邮编等。
+![img](./assets/(null)-20230222142426758.(null))
 
-号段选择：我购买的485953，实测都可用，其他号段没测。
+万一如果遇到了下面这种情况，用浏览器的隐私模式尝试清除 Cookie 再试试看。
 
-姓名，自己随意，记得填英文。
+![img](./assets/(null)-20230222142426650.(null))
 
-地址和邮编，请填写真实存在的地址，以免出现问题。
+顺利的话就会让你绑定手机号了，绝大多数人都是卡在这儿，因为没有国外的手机号，这个时候就需要 **打开上面的第二个网站** 了，这个网站是个虚拟号码接码平台，复制网站到浏览器打开这个网站。
 
-(1) 这个网站 https://va.postcodebase.com/zh-hans/randomaddress ，可以随机出非常多的随机地址，下面都是真实地址。
+![img](./assets/(null)-20230222142426723.(null))
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NzI0MDg5ZDlhY2FjMDY0OGQ3NmZhNjk1MTJlMzE5NWJfTkhCMGt3QlBQbUdqbHZWa2hoTHJIcG1UU3FjbmZSd3FfVG9rZW46Ym94Y25DemlEUHE3ZG90eDI4ZG5ScmtmR0FiXzE2NzcwMzYwMTM6MTY3NzAzOTYxM19WNA)
+打开网站后也是得先注册，这个注册很简单，根据提示注册
 
-（2）任选一个，作为我们的街道地址、城市、州 邮编填写进去
+![img](./assets/(null)-20230222142426770.(null))
 
-例如 ：9642 BURKE LAKE RD BURKE VA 22015-3041 USA
+注册完成后，点击网站右上角对余额进行充值，点击余额拉到最下面有支付宝充值，充值个0.5美元就够了，接收一条短信的费用应该是1元人民币，所以你看着充吧，充完之后进行下一步。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YjYyN2U5NTQ5Y2YzNGVjMTJlYmM1ZWRmMjA3ZGY0NWZfbmwxcUxOd25ZaTdtZ2ZRRnhKampHSkViVTBuU3lNak1fVG9rZW46Ym94Y25jSmVXYVZTSlJWa01HZHJPMjczRW1lXzE2NzcwMzYwMTM6MTY3NzAzOTYxM19WNA)
+![img](./assets/(null)-20230222142426784.(null))
 
-chatgpt账户是20$每月，建议多充值1到2刀，每笔都有交易费，即使失败。所以多充1刀。
+![img](./assets/(null)-20230222142426708.(null))
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NWEzZDdlY2IzOTQ0YTE5YTIwM2E3MzJmNzYxMmYyMDBfeVNUeEt2cDFVUkFpNFY2RlM3aTEza1pqeDU5NlBHdThfVG9rZW46Ym94Y241dGZ3bFpVQURSZkZEaGhRS1FzSWJlXzE2NzcwMzYwMTM6MTY3NzAzOTYxM19WNA)
+![img](./assets/(null)-20230222142426881.(null))
 
-（3）点击开卡，出现卡片激活中，请稍等。
+完成充值后，在网站的左侧搜索框里输入openAI，出来openAI之后点击OpenAI就出来下面的第二张图
 
-点击左侧：我的卡片→ 卡片列表，就能看到自己刚开的卡。如果显示未激活，就刷新一两次，就好了。
+![img](./assets/(null)-20230222142426858.(null))
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MDg4MTUwOTcwZmMyNGFkMzEwOWQxYjJiNzFhZjU0MDhfWjJFRHBLTm11UXhYcG5oaUlMY3lHRlpZQmY0VU5DR2hfVG9rZW46Ym94Y25YT2NzZkRSTGdvMEFVSjdEZTYzOHdoXzE2NzcwMzYwMTM6MTY3NzAzOTYxM19WNA)
+![img](./assets/(null)-20230222142426965.(null))
 
-（4）右上角一键导出，就能得到自己的卡的完整信息。
+选择任一个国家印度或者巴西，点击国家后面的购物车，右侧界面就会出现电话号码，如下图
 
-5. 将 **虚拟信用卡， 输入到chatgpt的付款页面** ，即可。
+![img](./assets/(null)-20230222142426907.(null))
 
-（敏感信息，就不截图了），付款完成，就成为了plus会员。
+以印度为例，复制国家后面的号码填入到第一个网站注册需要绑定的号码，前两位是国家代码（91）不需要复制，点击发送验证码，在上面这个图所在界面等一会儿就会收到验证码，复制验证码切换到刚才注册网站填入验证码就注册成功了，就这么简单。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MmIzZTM3ZTlmYjk2MWFlMDE1MmU4NjdjNjc3MGIyYzNfTEFBOEZFdjAxR1JZSkUzNnI4bXB3SUtMa2NJWGRmYVdfVG9rZW46Ym94Y25VQ1ZrR09OMXFxVUZaSkNIUGk2T1plXzE2NzcwMzYwMTM6MTY3NzAzOTYxM19WNA)
+注册完成后打开第三个网站进行登录，就可以愉快的跟 AI 进行对话了（超强大）。
 
-每个月持续付费，也用的上，继续充值就好。
+![img](./assets/(null)-20230222142426928.(null))
 
-这个 开卡操作 ，可 以 一键批量开卡，一个账号可以开卡1000个。结合批量随机真实地址的操作，千人的plus会员轻松解决。
+大概、也许、可能会颠覆 Google 。。。
 
-6. 最后，如果你没有plus会员开通的标识，切换到美国地址。新注册的美国号、美国ip的账号，直接有开通标识。
+发布于 2022-12-05 22:16 ・IP 属地上海

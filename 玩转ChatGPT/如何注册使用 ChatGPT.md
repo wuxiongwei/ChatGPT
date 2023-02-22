@@ -8,7 +8,7 @@
 
 > —ChatGPT
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NDhkZGQyYWEzODVmYWEwMzBhNzZiZmQ5YWE0ZDE0MTZfdDQxYjdtcDN2ek9OM3pQZlE1ZFpaSXdBQzA3bkRPWE1fVG9rZW46Ym94Y25IR3FFNFJYejhKMkxvckhmZDd0eEdaXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132468.(null))
 
 ## OpenAI 又是什么？
 
@@ -18,7 +18,7 @@
 
 > —ChatGPT
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGM0YmU3ODU0MTJmNmQ1OTAxNjMzY2ZkY2EwN2ZkMjNfcFNvR2VjVVZtNExvWWJpa1N5YTg0SWI2bXBnS3lkZ2ZfVG9rZW46Ym94Y25kWUcxekp6R0d0RXlhRklOdG5IOGZnXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132434.(null))
 
 以下是维基百科关于 ChatGPT 的相关介绍：
 
@@ -44,48 +44,48 @@ ChatGPT 具体注册步骤如下：
 1. **在你的设备上开启全局代理。** 建议使用美国地区的节点。如果未启用全局代理，或使用的节点不稳定，则有可能出现类似 ChatGPT 在当前地区不可用的报错提示。
 2. **访问 ChatGPT 登录页开始注册。** ChatGPT 登录页为 [https://chat.openai.com/auth/login ](https://chat.openai.com/auth/login)。点击 Sign up 根据提示进行创建一个 OpenAI 账号；输入你的电子邮箱继续。如果你有 Gmail，你也可以点击下方的 Continue with Google 按钮直接以 Google 账号注册。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=M2UyOGZhZDhiN2RlNTk5MDU5MTI5NGNhYjhkOGRlZjBfMVlRWDAxWE9Hd1huTlluSHNJempnMlB1b29kejA0TnZfVG9rZW46Ym94Y25UOHM0V21VQTkwUkFQTW9XQ0MydXdKXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132414.(null))
 
 1. **根据屏幕指示操作。** 完善你的姓名，机构名称可不填，点击下方的 Continue 按钮后，你会来到验证手机号码界面：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDMwMGVjNDQ4NDdmYjJlODczNmFjM2U3NDc3NWY1NGJfNGZ0YThuRWM3YU9TQUlWNTBEVVMxT1JibWZGV1d5SDNfVG9rZW46Ym94Y24yZG5DUlU4ZHFCenNscHE4Rk9IQ1RlXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132461.(null))
 
 1. 先停在这个界面；接下来我们需要准备一个手机号码接收验证码。
 2. **前往接码平台买一个海外手机号** 我们只需要一个临时的海外手机号来接收 OpenAI 的验证码即可，不需要购买海外的实体手机卡。 推荐在 [sms-activate.org ](https://purpwind.com/go/sms-activate)上花 $0.2 买一个印度的手机号接收验证码。具体操作步骤如下： 1）前往 [sms-activate.org ](https://purpwind.com/go/sms-activate)并注册账号；注册完成后登录账号。 注：如果英文界面看不懂，可以切换语言为中文。 2）点击右上角 Balance 下方的金额，然后选择 **Top up balance** 开始充值：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MzAzZDVmZDU3MmY5N2MwZDk2NTA3Mjc2YmNiOTkyMDZfMGU4bE1SYmtCVUppNXJBaUVUdDRSbXFQdkh5N2lNdTFfVG9rZW46Ym94Y25JM3VIR3ZyNjZSYXVSTHdac2ZjRHdoXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132492.(null))
 
 1. 3）下滑屏幕找到 Alipay 并点击，在弹出的窗口中输入你要充值的金额。充值 **$0.2** 即可，土豪随意。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGM0YTg0ZjAxNjE5MGVmMmIwZDg0MzIwNzhkMjIyZWFfZVdKc096cGRyQXVXOUpDUGxYbk9VWGxjbTh2WXRZTXRfVG9rZW46Ym94Y25UMHk1MG91bnRpazdydEtJalN5amZoXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132440.(null))
 
 1. 4）充值完毕后，返回首页；在左侧边栏的搜索框内，输入 openai 找到 OpenAI 服务，并点击：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGNiNjlhZGJhMTgyNjEzMjY4ZjU3ZDhiODhmMDFhZGNfcDZoNDQ0aXR5Tk5Jd09hbDZVQVRaTjk0VU5GZTdkQkpfVG9rZW46Ym94Y25ET3p2Y1ZRTUw5TGxSV052a3FsZDRIXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132608.(null))
 
 1. 3）点击 ~India~ 右侧的购物车按钮， ~你会得到一个91开头的印度手机号码~ 。 **更新：评论区有留言说选择印度可能会失败了，建议换成** ***印尼🇮🇩/ 巴西🇧🇷/泰国 🇹🇭 试试*** **。**
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NmUxOTkxMDFlMDEzMDA5ZTliYzAwNTU2MjFiYTZiZDBfVnVCc3JtVVBjQUlyWkJoZUgxOHVWVnZubDNmZUcwclBfVG9rZW46Ym94Y25ERFV4VzdqSDd5UlNxbDNLcVpCeldoXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132590.(null))
 
 1. 4）将这个手机号码复制并粘贴至 **步骤3** 中的验证手机号码界面，然后点击 Send code via SMS。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Njg0MzgzOTIwYjdiMzhhNDA5YmRmNWNlNzhiYzJlZGNfVHdOdFI1akFEbHZmSEVqWnRvSk9LbHJ4WXhHcTU0RFBfVG9rZW46Ym94Y25LRGdyUUZEVk9TdTBpdzljdlZjOEtnXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132594.(null))
 
 1. 5）留意 [sms-activate.org ](https://purpwind.com/go/sms-activate)页面，很快将会收到来自 OpenAI API 的验证码；将验证码填入 OpenAI 页面的验证码输入框，即可完成验证。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=M2VkNGIyNzE4OWRmMzhiNThmMmZkZGYwNGVhZTA0ZDdfVGhKcWVqeGwwem1VYW5EdUxaeXVlcXZqekFQaEttN09fVG9rZW46Ym94Y25ZN0lFYVE0ZnVaazVkekliN3FhNEpkXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132637.(null))
 
 1. **选择你注册 OpenAI 的主要用途** 此处选择“I’m exploring personal feature” 即可。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MDg2OTY5MjdkZDk1ZTFkODg2MjgwY2ExMTUwMGMwMzFfb3VyRDBocEF2d0x0N1ZvYUdqcGxEV0hyT2JObjV5anRfVG9rZW46Ym94Y25UbnZSTnJBNmhXOFBSWmNKUTJZNzZlXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132651.(null))
 
 1. **开始使用 ChatGPT** 接下来，只需点击顶部的 Try it，然后使用前面注册的 OpenAI 账号登录，就可以开始与 ChatGPT 聊天啦！
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YTVhZDg3MDMzZmExYjM1Njg0OTFiMGQ3OTc0MmUxODRfNVRpbXVSVTlIODd4VGhvODhiN0htcnc3T2g3cXdsakxfVG9rZW46Ym94Y25FYkxKNkJTeGRzRzQ2U0hNdGFUc3VkXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132720.(null))
 
 1. **在底部输入框内输入你想要问的问题，开始与 ChatGPT 进行互动。**
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NTY1M2ZjOTFkYjQzMjg1NTJkNmQzMzNmMDgxZTdhNjJfcm9ReUdmUDVJTHNxTTNrOFh2YldVM1N0eThEZTB0UlVfVG9rZW46Ym94Y25sQldBRlpJTlhHa2dFbFJiYnJJc05mXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132814.(null))
 
 以上就是注册 ChatGPT 的具体步骤。 **如有任何疑问，可到底部评论区留言，或通过联系表单与我私信交流。**
 
@@ -95,11 +95,11 @@ ChatGPT 具体注册步骤如下：
 
 我尝试和 ChatGPT 聊了一会儿，发现这玩意儿确实做得还可以！
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Nzc5ZGZlZjFiMWJiYWQ1MmQ0MTQ1MDJkNzU2MjgyM2ZfeWFrSzhORFd3REpHU1NJNmMwNm45QXBnT3dkQmw1S0xfVG9rZW46Ym94Y252T3MxRDFvQzMzVFJUZUFtb2taTkViXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132760.(null))
 
 基本上不会出现答非所问，而且中文理解能力也在线
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDhhZDFiMDI1N2UyNzY4ZTk3YTllNzM0ZWUwMTljOWFfeWV5RzVzYXg4Smo0S2ZUUGtienRYM2dlWmFqN0xpSkVfVG9rZW46Ym94Y25kNDYwUzZpN1pndHRORThzalVqeHpoXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132825.(null))
 
 言之有物，基本上没啥毛病
 
@@ -107,11 +107,11 @@ ChatGPT 具体注册步骤如下：
 
 下面几张图盗自某程序员大佬的朋友圈，不明觉厉：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGJhZjFkNjg2OGYxZmIyZTExOWYwMzUyYzIzZjBmMTBfb1lUWXg2Rkl3Z3VpbXNLNWFMRnF6NGJjSnFYMXdRV3hfVG9rZW46Ym94Y254ZzFEMUFXa2t5Q013SmJReHVFZ25mXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132826.(null))
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NTlkZWYwZDg2MTU0MmY1YTM1ZTQ0NmMxNGRiZjNmNjhfYjJtbkliQWkwTjFITlBGT29wWlljWXNiOTNuTjhqMFhfVG9rZW46Ym94Y25RZWdTUUNKbWVLNkhTRlRjRkpic0ZjXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132853.(null))
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGFjMGI4NmE2YTgzNGZkNmZjMzAwY2NjYmMyMWIwNTBfczdNRXAyTnRNYXJEUGczUnFlTG5OQ3BaRVFNNHBoOGdfVG9rZW46Ym94Y25IWWdXOVZaQnJmQUdjVExlTzhSOWtmXzE2NzcwMzQ3NDk6MTY3NzAzODM0OV9WNA)
+![img](./assets/(null)-20230222142132916.(null))
 
 ## **ChatGPT 国产平替**
 
@@ -128,3 +128,5 @@ ChatGPT 横空出世，诸如“程序员要要失业了”、“让本就困难
 我个人其实并不这么认为。随着技术的更新迭代，ChatGPT 会趋于完善；不过和人类相比，ChatGPT 没有自我意识、也不会独立思考，对于一些稍微复杂点的工作任务，它并不能完全取代人类。不过可以预见的是，在不远的将来， **那些相对简单的工作任务将不可避免地会被 AI 取代** 。
 
 或许在以后，程序员只懂得写代码，那真的很有可能被 AI 取代了。而如果程序员除了会写代码，还懂用户需求和产品体验，那他被取代的可能性将会大大降低。
+
+欢迎在评论区留下你对 ChatGPT 的看法~
