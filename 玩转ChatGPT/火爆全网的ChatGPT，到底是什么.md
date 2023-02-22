@@ -1,8 +1,16 @@
+> 🔗 原文链接： [https://mp.weixin.qq.com/s?__biz=Mj...](https://mp.weixin.qq.com/s?__biz=MjM5NDYwMjg4Mw==&mid=2247485959&idx=1&sn=c1c2602c252e87a854f6d02dd60a30c6&chksm=a68400eb91f389fd22a058bafe6a16fd7573d69d3eda1183384b89f4ec7ae829684083892c25&mpshare=1&scene=1&srcid=0210OI1n3cr2IL1Czs3OlAo6&sharer_sharetime=1675960998496&sharer_shareid=e9f76e9c632ee55f561d40c923f01b9f#rd)
+
+> ⏰ 剪存时间：2023-02-11 00:55:17 (UTC+8)
+
+> ✂️ 本文档由 飞书剪存 一键生成
+
+GitMind思维导图 *2023-02-09 18:32 发表于 江西*
+
 最近还有比ChatGPT更火的话题吗？上线2个月，月活突破1个亿，见面现在要是不聊几句ChatGPT相关内容，你都跟不上身边人的话题了。
 
 那ChatGPT到底是什么？今天GitMind详细给你介绍介绍。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MzE1NWRjOWI0N2IwMmJhZDk1NDk5ZjRiZmQ1MGJmMWFfdFU4UnNCcUtTUmpLMFU2YTNGU3hsVUxrQmVUVDVMTGpfVG9rZW46Ym94Y25HMXRvVHRYTlJJa3V0TGJ3RGpWbEVoXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652716.(null))
 
 **[查看高清版  脑图](https://gitmind.cn/app/templates/4545?apptype=fwh)**
 
@@ -10,7 +18,7 @@
 
 **什么是ChatGPT？**
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2FmNGM0MWI2ZjQwMWNhNjc0MzgwNTJjNmFmNjNmNTJfMWtCYmRqTTFpaFNIZmlHUWxzRWJQdmxwcE40aFFvUjdfVG9rZW46Ym94Y25LWFdPMHFLbTAwWkdJYzkwbEdBOE5jXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652726.(null))
 
 **[查看高清版脑图](https://gitmind.cn/app/templates/4545?apptype=fwh)**
 
@@ -22,7 +30,7 @@ ChatGPT是什么？
 
 而ChatGPT，美国有89%的大学生都是用它做作业，写论文。马斯克说：我们离强大而危险的人工智能不远了。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MGUwYWQ5NzI4YWZkNmU3Nzg3Y2EzZTdiM2JmMzM1OTlfcWZKaG5wVnJJWG11RExLdEY0a09XaVc2V3h1bDVGcTdfVG9rZW46Ym94Y25KYVd5V1RERWtoWUNMa0p4cUl3NlNiXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652722.(null))
 
 **0 2**
 
@@ -34,45 +42,45 @@ ChatGPT是什么？
 
 比如：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NjkxNzc3M2U4ZTI4NjU1ZTQyMGE4MzlmZWUyOTcwODdfYWgzN1d3S2pkWGhKdUN2Q3d6OUdNZFFUaFJJZmdTb2NfVG9rZW46Ym94Y25UYmtPRlBuSUVwNFpmWHczamdqR3JkXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652676.(null))
 
 比如： 
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OTJjM2JmYjhmNjMyNzY0ZjMwMmZmOTI0N2ViODgxZThfTlNIUkVMWW1DakE4a3dqUGQyZjI2dG5URjNlYjZxSVNfVG9rZW46Ym94Y25yWE5yUVFVQk1RYjJoVkU1ZlhHcnhlXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652634.(null))
 
 不满意还可以让它返工修改：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NzgyNTBlNjc0MGRhZTdjYjk5NDAxNDRiZmE4OGRhNGVfNXFMMVJacXRGMHk4eUlLVEExc2VYUTdMTlZvcklVYzdfVG9rZW46Ym94Y25mQU5SOERIYWxoa20zWmdiVGpYNGxiXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652631.(null))
 
 但是它的风格又不小红书，再修改：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YTE5Y2UxNzZlMWFmZjJmMzI1MmU0ZmRiZDQyMTY1YzZfd0daUlFKZDU1YmluMkRUdFNxU05xTnVOYWVkUzRjeDhfVG9rZW46Ym94Y25WRHhlTjRNWDg3dzdGbWltVzRmVDNlXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652858.(null))
 
 它能用来干什么？用来把我替换掉……
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YjEwZWI5ODdmYjFiYzllYTEyMDNlOTRiMjE2YTYyYTdfbjN3UE8wakhYTGtlWjhncXIyQnJ3Z1hJT01udHN2VlZfVG9rZW46Ym94Y25kNHZVaTF3NWViaTM4NjRjVWlpc3diXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652846.(null))
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MmZjYWViYjJjZDhkZDM0MzVmMTJmMmM4MTViMzFiMjdfR1had1FuM01YM043QkJ4ckcxNEFTQnRqaVh5b0hZQ09fVG9rZW46Ym94Y241R0NKQ3hncFlnN25YN3p3MXpJY2liXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135653736.(null))
 
 除此之外还有非常多丰富的功能 比如帮你背锅：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGJjMjg3N2FmMjdhZGQyZjgzZmM1MjNiZDIyN2U3MTBfUTg4UmZ2OGM1OHdzOVN3QW1HVm80UTRpWmdGbUFORlhfVG9rZW46Ym94Y25wN3Y5OUFuV1VFNktldzhCTmVLY3ViXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652994.(null))
 
 比如帮助周杰伦写歌：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NzRjMjMwMjMxYzg5ODk2ZGYyY2Q3M2NhMjdiNTAwOWJfMlNaemhWbUdRdllvcmViYWpldjNNVGhuWUswaFZYWGJfVG9rZW46Ym94Y25sQk8zTGxzSXQ5b3dNS2lRMTE0MHJkXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135654602.(null))
 
 比如网友训练它说北京话：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGNlMDFhZGZjMzU1NTA4YWE2MWMyOGMyMTMxM2JkMzRfMXl1ZER4cEZFMmNqRGdIVmF6M3JSOVVjajBOQks4dW9fVG9rZW46Ym94Y24xR0RyY21HVnl4T29CY3Z1b2ZpY1piXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135652993.(null))
 
 帮你走出失恋：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2VjMTczYmIzNWEwNDM0MmJmZjRkMmVkNWNkOTQ1NDRfaldUVnMzeG11bTlWUXZRaTRTSkc3NzhIMUFxc04xbDhfVG9rZW46Ym94Y25UNUdwN2MxRFJ0dzg0U3BBUldzRmdiXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135653110.(null))
 
 它甚至还很有情商比如：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NTgwY2UyYmU5MDM1NTc0OTg1NGE0OGUzYTdmZjM1OThfV3BwN0g4Smk1SlppSmJ2TTRMdGNRY1Q5QU1welUzT2xfVG9rZW46Ym94Y25wbmdSWjNGWFNPQkxqWmx1Q2xlMWZiXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135653584.(null))
 
 人类：2+5等于多少？
 
@@ -88,31 +96,31 @@ ChatGPT：抱歉，肯定是我错了。我只用了2021年甚至更早的数据
 
 当然你也可以自己训练它，比如：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2NlYWZkMzFhZjQ3MjQ4NDFjZTg2NzAxNjU0M2I0MzlfY1JOamVyQTdFeUtXV05abzRPaG9XS0xQTloybkdYNXpfVG9rZW46Ym94Y243MGVncGlsNHVXd0pNZFhuM09sa0JnXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135701984.(null))
 
 **0 3**
 
 **如何体验ChatGPT？**
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MGQwMGVmNzAxODFmYTBjOWQwNTU5MzhmYjI5ZjRlZTBfb1hKVk1ERFJwRFY5ZWpsR3JtMG9lTmFES0VjUnlkeXlfVG9rZW46Ym94Y254alptM2VLR1BheXlxSDhYbThwMzFkXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135656650.(null))
 
 **[查看高清版脑图](https://gitmind.cn/app/templates/4532?apptype=fwh)**
 
 直接进入官网， 点击之后选择sign up，也就是注册：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Njc5NjY1OTRkOTA1Y2NiMTQwYWZiY2RjMGQwN2YzZWVfOUg1bVZuMENIZzVRTllzdEUyNzRBSFp4R0NwZ3BtbW9fVG9rZW46Ym94Y25VODR2djhPaHZEd1VhY2lCSTRmTmtmXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135653315.(null))
 
 在下面输入你的邮箱，然后设置好密码：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NTg2ZDEyOGU5OTA5NzEyZGMxZDc5MDdhYWFiYzUzMmVfTjZwQVBoUnEwUHdDTThoQzR0c1hsYkFWOElMQ0RrU3ZfVG9rZW46Ym94Y25WbHdaOEpMRXkxR1QyVVdIY215Q2ZiXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135653509.(null))
 
 邮箱注册完成之后，会需要进行手机号验证：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Mjg2ZWU1ZGQzOGRlODg1NzdlODg5N2E5ZjM0ZDY4YjhfN1U3cFZZWHFSZlZ4bTZQV0NqYmVENUVRRVRNYXhUNDhfVG9rZW46Ym94Y25NZWUxQ0twU0NINGlubzhzTmw5eWZnXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135653704.(null))
 
 这里注意， 可以登录sms-activate网站， 找到OpenAI，点击买入虚拟号码，复制号码到ChatGPT注册页面，收到验证码后填入， 注册成功后直接在官网聊天框发送聊天内容即可。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MjlhNWYyYTA5ZjFmYjc3ODI1Y2Y2MGNiY2MxODljM2RfOE1KOG9wbU5QbGxKZzFIRWhnTTg1YVFvSnlqR2tSWHVfVG9rZW46Ym94Y242RzJQS1J0amdSdkFnZlZaeXZZVXZoXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135707862.(null))
 
 **0 4**
 
@@ -122,7 +130,7 @@ ChatGPT：抱歉，肯定是我错了。我只用了2021年甚至更早的数据
 
 这些都还在内测中，GitMind在脑图内先准备了一些其他AI工具给大家体验，像之前很火的AI绘画等等，欢迎体验。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGUyMzE4NDYyZTNmMjA0ZDMxZmE4ZmVkYTkxOTc4YTVfdHJVSDZheW9UQUdlQWRBWmpkVDJ3Z2dsZ1dTNzBGZE5fVG9rZW46Ym94Y243N3RJeGRYVXRsZk5XTXM1U2NVWUpmXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135657265.(null))
 
 **[查看高清版脑图](https://gitmind.cn/app/templates/4545?apptype=fwh)**
 
@@ -136,4 +144,4 @@ ChatGPT：抱歉，肯定是我错了。我只用了2021年甚至更早的数据
 
 **“我们可以协助提高工作效率，但我们不具备创造性和想象力，也不能替代人类的工作。”**
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YTAyMTZiOWYzOWM5MjdjZTFmNjFkODIwODkwMGNkODBfMExzVk9WSGVzR01tNFlweERPaUdJZFY0SlhuSWhySHVfVG9rZW46Ym94Y24zNDcyRTRPTzRzenJBZVNlRHVHdXNoXzE2NzcwMzY3NTc6MTY3NzA0MDM1N19WNA)
+![img](./assets/(null)-20230222135654254.(null))
