@@ -1,4 +1,4 @@
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=N2MzMTY0YzIxOTM0OGY5MWRlZDAzYmEyYWNiNTc3MzVfazdneHBHbTc4MDQ3S3ZFUVdrMGFCM0haaEhVczNqeEZfVG9rZW46Ym94Y25mWk1zWm00VEhVbFNpdW80a1Z4b1ZoXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143034915.(null))
 
 最近，一款人工智能聊天软件ChatGPT爆火，从0到过亿用户，它只用了2个月。
 
@@ -20,7 +20,7 @@
 
 将来ChatGPT一定会和语音接口打通，那就会演变成电影《HER》中的人工智能。也就是说，很可能取代你”女朋友“。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YTVjNmRmNjQ0ZjRlNTU5ZjA2NTIyMzQxZDE3ZGJlY2FfdWZFdm9XMGdHMGtKRXRJN0JPdXc0d2VRT2h3SEY3eWZfVG9rZW46Ym94Y25UcTFNQVhIMUR0UkFUdTJsM3N0aFRjXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143034912.(null))
 
 # **2**
 
@@ -36,7 +36,7 @@
 
 那么 ， ChatGPT就慢慢将会成为 全球共享的知识大脑🧠，人类所有的知识，你将可以随时轻易的获取。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NDQzOTZjN2ZlZjc3MTJiM2I3MDE0Y2MwMzMxOTI3ODFfbzU3M2d3NzFmSUxZNDNRYW1YODZMbnJJQ2NiTk9TSzBfVG9rZW46Ym94Y25Rak84dWwwd091ZEl5SlVnM0kzUlRtXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143034979.(null))
 
 # **3**
 
@@ -48,7 +48,7 @@
 
 未来的工作、学习，将更加考验我们的创新思维、创造力和想象力。人类的精神、思想和创造能力，将会带来新一波的开发和激活。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGI0YjZlYTc3ZDkzYmFmODc1NDVjZjliZTllMTk4OTFfeEZJV0ZtM1dZczF4TTg3TlZxMWhPZDRmY2tpZmdUd0lfVG9rZW46Ym94Y25qVUlxa2VzT3hSTllzWnNxSFR0dFViXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143034904.(null))
 
 # **4**
 
@@ -80,7 +80,7 @@ ChatGPT的出现，将真正改变这一切。
 
 因为知识有个诅咒，就是一旦被生产出来，也就过时了。未来知识一旦被生产出来就可以被人工智能取代了。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NzA4YzNmYzkxOTdhZWVkOGQ3MWZkOTg5Zjk1YTViZTdfZ0x5MVloc2lQcjAyclFiQmFjYlN4alZzZEpDYm5lNm9fVG9rZW46Ym94Y25xMFdzTkZZc0hWNjloYUF6dWFiRkliXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143035048.(null))
 
 # **5**
 
@@ -96,9 +96,9 @@ ChatGPT虽然好，对每个人也都是公平的，但怎么使用和调取它�
 
 理解起来有点复杂，我下面用几个提问案例展示，你就能秒懂了。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YzUxNzRmYjUyYWIwZGViYzk0ZmNmZWNmNGM0N2E5YmZfOHNBV2lsMmIwc1VWNG5zNEZlVEJQRU9hZ0QyclBhSG1fVG9rZW46Ym94Y25NSHB1VUZwc3Z1bXlKeHdZbk9oUVNjXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143034993.(null))
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ODg5ZDM0N2NkMzVkZTMwZGE5ZmYwNTMyYTUzYmZlNDBfNWY5WjFnTDNlWWEwaUJBZms2NlJtZHZadFBCdGF6RmFfVG9rZW46Ym94Y244OWpmWHo1SGVnSWZrSk1JQ21XQklkXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143035364.(null))
 
 # **6**
 
@@ -110,7 +110,7 @@ ChatGPT背后由众多大佬支持，其中就包括科技狂人马斯克。而�
 
 这样未来人类将兼具“生物智能”+“人工智能”，成为超级智能人类。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2NmNTFkMTFkZDFhNTQwYmUxNjFmYjFiOWFhOTQ0ZmNfWHNwTnM5cGEyOExVTHNUalgxOHltdlVSTVllcTJ4eThfVG9rZW46Ym94Y25GQTJabW5lcEhqRVpvWkZwZXM4S0RjXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143035460.(null))
 
 # **7**
 
@@ -120,7 +120,7 @@ ChatGPT再强大，也只是知识的获得，也就是大脑的“知得”，�
 
 **道在天为道，在人为德，在心为得，在脑为知。** 
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NWFkYTY1ZGQ4NTc5NDk1ZTUwYmViYWI2OGRjYmE4YTlfdzdvN01vTmtXZGR5M3Q0RmtPRjlVR0NKd3NEUVUzUnpfVG9rZW46Ym94Y25HUFdzbk5ka3A0RW5COU9pNlN4T3VkXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143035097.(null))
 
 也就是说，ChatGPT和大脑只能处理我们已知的部分，未知的部分是不行的。就是你不知道自己不知道的部分。这部分，必须得问心。
 
@@ -146,4 +146,4 @@ ChatGPT再强大，也只是知识的获得，也就是大脑的“知得”，�
 
 **关于什么是心，可能还是稀里糊涂，但可以确定的是心不是什么。心不是心脏、心理、心理学，更不是大脑。**
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YTZiM2UxNjQ2NmNkMWYxOTU1MjJmZmEyYzc3M2QwNDZfNFdxaDBweTJVcUxKWXBNdm9uWHZOemZkanZsTVUzQnBfVG9rZW46Ym94Y243dGxDNTFRMnB1eDJuYlo2dXg4NFVoXzE2NzcwMzYxNzg6MTY3NzAzOTc3OF9WNA)
+![img](./assets/(null)-20230222143035836.(null))

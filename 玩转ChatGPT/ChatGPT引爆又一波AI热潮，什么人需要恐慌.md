@@ -12,7 +12,7 @@
 
 笔者让ChatGPT以“波动的市场”为主题，写一首许巍风格的歌词。它较好地完成了任务。（注：第三方开发者将ChatGPT接入了微信，群聊天转发到OpenAI的服务器给出反馈）
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NjgzYTBiNzQxYzUyNmUxYmQxNjFhYWNlYTcyOGFmOWZfNVp0VzJBdm9yUVZXelhUWEdQVHFSMXNuYThTYmlZSnZfVG9rZW46Ym94Y25IWlg4ZlM2ZjhxaENtZ2N5dnhHc0FoXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143447211.(null))
 
 ChatGPT所作歌词（作者供图）
 
@@ -28,7 +28,7 @@ OpenAI在相对较短的时间内取得了一些重大成功。2016年，它创�
 
 2016年，AlphaGo引爆了史上最大的人工智能热潮，一度到了“与会必谈”的程度。一些社科学者也对人工智能产生了兴趣，对人与智慧机器的关系进行了深入探讨，“机器是否会取代人的工作”一度引发热议。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjA1NjY3NWVkZDJmNDcxM2IzOWM5NmE5MGI1MzkxMzFfbno4NHB3Q3Z3OG5CSFpsa2RzbXV0d3hFNnZKbGxHakNfVG9rZW46Ym94Y25HUFlQb3h0aEZmVUZHejMyaU1HZlFmXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143447284.(null))
 
 宣传画中的人形AI（作者供图）
 
@@ -58,7 +58,7 @@ GAN还被应用于不少其他有趣的方面，例如，可以用GAN框架做�
 
 GPT-3的开发思想就是把整个互联网的知识都当成训练素材，做出几百亿个参数的超级大模型，看能训练出什么。语言模型的训练目标很简单，就是把一段话作为输入，“预测”后面最可能出现的词，以此类推，最后输出完整的对话或文章。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=N2JhOWM5MjkwOTQxODI2ZDY0YzA5ODI1ODk0OTEzNDlfZmlPSkJjS3hpQkF4S3JPV1dYWmQ0YkJpYlFOQW9WVTFfVG9rZW46Ym94Y25nODlOcVR2NExVQWRKS3JVWGpHcjBjXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143446083.(null))
 
 GPT-3似乎学会了整个互联网上的所有知识，鉴于许多程序员将代码放到了网上，GPT-3甚至学会了写程序。微软收购的Github开发了Copilot等辅助编程工具，机器编写的代码量占比逐渐上升至30%-40%，以至于程序员们一边使用辅助编程工具，一边默默忧虑自己何时会被AI取代。可以说，GPT-3使整个IT业界为之震撼，不过由于使用门槛相对较高，所以没有“出圈”。
 
@@ -72,13 +72,13 @@ GPT-3似乎学会了整个互联网上的所有知识，鉴于许多程序员将
 
 谷歌更是不得不行动了——员工都让ChatGPT写关于谷歌裁员的诗了，写得很有意思。谷歌对前OpenAI员工2021年创立的公司Anthropic紧急投资4亿美元，后者的聊天机器人Claude有520亿个参数的模型，还在内测，尚未公开。值得注意的是，前OpenAI员工之所以创立Anthropic，就是因为他们认为ChatGPT商业化严重，输出内容的正确性有严重缺陷。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MmNmMzBkMzIwZmU4YTAzYWZmMWJiZWNjMDkxMDE2OTJfdUU4a2xucEJobVBwaFA4QVR1b2RZcXpIWXJvS3NUTVBfVG9rZW46Ym94Y241dzJsYnBrY1RZcnlQMkQ1RzN3aWRkXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143446301.(null))
 
 关于谷歌裁员的诗，“作者”为 ChatGPT（作者供图）
 
 以上是ChatGPT简略的技术原理和发展历史。其实AI的原理并不难懂（希望一些技术名词没有造成理解困难），主要还是得实际干出来，Show me the code，这就需要海量的技术细节和投资。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MWRjMzQ1ZTUyMjA3NjYzOTViODkxZGE4OGQ2MTNjZDBfRzVaS0dVbnNVQXJ3dE9MOGxnenVPZ0F2V3ZOazdFNGlfVG9rZW46Ym94Y25YNU1lWk84am5xTWFuSFU0SHhwMlJoXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143447222.(null))
 
 Jacob Browning 和Yann LeCun论AI和语言的局限性（作者供图）
 
@@ -98,7 +98,7 @@ Jacob Browning 和Yann LeCun论AI和语言的局限性（作者供图）
 
 表面上看，ChatGPT能回答中国GDP增长的问题。然而，笔者经过测试，可以肯定地说，ChatGPT并不理解GDP知识体系，会出一堆莫名其妙的问题。也就是说，最有水平的聊天机器人也只是“人云亦云”，没有体现人类深层理解的智慧水平。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MmE3ZTEzNmY4NjMyYTQ0OWFmNDU4OTIwM2NmZmFmODBfemloa3V5QTRRREo4Q2lDb2QwTHVrYk05STRKaGlJeFFfVG9rZW46Ym94Y25yRDVsYmpqbUlPSWhnY1BEOHhsaGJnXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143446407.(null))
 
 ChatGPT与作者关于中国GDP的对话（作者供图）
 
@@ -106,7 +106,7 @@ ChatGPT与作者关于中国GDP的对话（作者供图）
 
 ChatGPT学得太多了，因此乍看显得理解了人类的知识，而且聊起天来派头十足、很有信心，一副人类的“架势”。但是，这个特点也可能是大缺陷——在没有相关数据和事实时，它会煞有介事地编造，如果人们没有相关知识，就很容易被蒙骗。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTc5ZTEzZjJkM2NjZGZmMzAzZWJiYjMyYjEzYjkzYWVfcldpaFlRNTJvUjJzQ3VmcHJXNTNNMXE0WUw5VVhxYldfVG9rZW46Ym94Y25HYkN4Yk5XOG10MDZ3TE4zSUw4elVvXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143447046.(null))
 
 沃顿商学院教授让ChatGPT做课程考题，最简单的第1题答得不错（作者供图）
 
@@ -124,7 +124,7 @@ AlphaGo证明人类在围棋方面不是机器的对手，但是机器也不理�
 
 对于ChatGPT等聊天机器人，哲学上我们仍然要“祛魅”，不鬼扯机器智慧。但是在实际社会经济运行、人们的学习生活中，要对通用聊天机器人的应用前景，展开想象力。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MjdlNTg1YTZlNTgxMzBhYjYxYmZlNmU2YTI3YzU1YjZfM0Z1ZUg0YzRXckZsQjh6Z2F5a0owVkZFSkN4YVV5U3JfVG9rZW46Ym94Y25hNmt3cVhlbUZIc1JJVG5CRlZxdnFkXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143447336.(null))
 
 AI画的梵高风格的向日葵星空（作者供图）
 
@@ -152,7 +152,7 @@ AI的一大应用前景是AIGC（AI Generated Content），即“以人工智能
 
 第三个应用是游戏NPC研发。从前，游戏中的NPC只能与玩家进行固定对话，感觉很僵硬。而现在，游戏《骑马与砍杀2》中的农民NPC以ChatGPT为引擎，学习了游戏背景设定，能灵活地回答用户的问题，玩家体验获得巨大提升。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NDBiYTQwZTE0MmRlNmEwNjhhNGU2MDBiYmI5OTYxOTFfbGl3QjR0UEtEMFkxYUZZYXRPR2g1UkVibXBNQzFEa2JfVG9rZW46Ym94Y25zajlVUXVOSUlZMXVpYW1jNkFYZEhjXzE2NzcwNDQ4ODM6MTY3NzA0ODQ4M19WNA)
+![img](./assets/(null)-20230222143446939.(null))
 
 游戏《骑马与砍杀2》中的NPC（作者供图）
 

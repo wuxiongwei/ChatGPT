@@ -30,7 +30,7 @@
 
 据麦肯锡中国的技能转型报告中预测，到2030年，平均每名劳动者一年时间将有87天的工作被自动化技术所取代，有三成的劳动力需要更换职业。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjBlNzg2MWFiNTk4MTkyY2FmNWMxOTgxM2IyNDQ3NGVfRDZnendxVjduQmoyZlRXb05qUXVqUkhHZG1nWWszbnFfVG9rZW46Ym94Y242M0JvSVFJUkxwaThLMUZydDJuY1JiXzE2NzcwNDQ2Njc6MTY3NzA0ODI2N19WNA)
+![img](./assets/(null)-20230222143324614.(null))
 
 中国30多年的教育改革和发展培养了一支以适应工业经济发展需要为导向的劳动力队伍。而如今的挑战转变为推动中国的人才培养模式转型，提升劳动力技能水平，使之能够适应后工业经济时代对创新和数字化的需求。
 

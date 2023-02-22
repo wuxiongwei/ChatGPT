@@ -1,5 +1,3 @@
-以下文章来源于商业风云榜 ，作者白罗
-
 **商业风云榜** .
 
 聚焦商界风云人物，和聪明人对话人生。
@@ -30,11 +28,11 @@
 
 ChatGPT的操作流程非常简单，用户登陆后只需要在对话框输入内容就能实现交流。给出关键词，你就可以收获一篇煽情的演讲稿——
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWQ3NjY4YWRhYzVmNTdiNTEyMTAxM2NiY2YxNTYyNjhfSFF0b2psNlB2QXdxQ25XQ1htbVE1QkQ0QWRrNVJHcE5fVG9rZW46Ym94Y25YeG12MEwxMkE4SGt5S2swNDkwZmloXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+![img](./assets/(null)-20230222143248549.(null))
 
 同样，你还可以用ChatGPT写剧本，人物、场景和对话应有尽有——
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OWRhNDU3MGNjZjZlYTBiM2U4NmIzZjhmNDM5YjU2ZGRfQUpSQ2tYNHZ6cTJIeG9PaFhwSDhGV3Uwc08zcFpVazBfVG9rZW46Ym94Y25ueWFKeE43MmZwUnJkWmJ1aVlTQ1NoXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+![img](./assets/(null)-20230222143248640.(null))
 
 学生们可以用ChatGPT瞒天过海，有个美国学生用AI写作业，结果得了全班最高分。
 
@@ -50,13 +48,13 @@ ChatGPT的能力实在太强，以至于在最新的一份调查数据中， **�
 
 结果，他得到了一份相当完美的教案，根本不需要他再改动什么。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGM1ZjFlNmY3MzBjNDYzNWFlYmJmMGEyODEyMTJlZWJfNFVoak9aNjVKeHpWUjM3Q3FIQXljZkpVNlFKYkxqY2NfVG9rZW46Ym94Y25tUGluMnRYT29aaGNFMFc1cUcyVjZkXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+![img](./assets/(null)-20230222143248772.(null))
 
 还有个教授尝试用ChatGPT写论文，他随机选取了一篇论文的标题，要求AI根据标题生成内容摘要，再根据标题、摘要生成相关论文。
 
 结果不到十分钟，AI为他创作了一篇2200字的“原创”学术论文，内容相当通顺，啥问题都没有。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YTlkZmQzYWQ5MTIwYTk1ODJjODAyODEyOTgzODEzOTZfUEo4eHFjd1RsZ1lRNkU5SzZrRWJ3OUQ1SWJRcnZTeUtfVG9rZW46Ym94Y251dGg1VlI2UlhhSU9XeXhGeVMzMFlkXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+![img](./assets/(null)-20230222143248768.(null))
 
 ChatGPT带来的颠覆，把整个学术界都吓得够呛。
 
@@ -92,7 +90,7 @@ Loopt是一款共享位置的应用程序，曾得到过1.75亿美元的估值�
 
 最终，奥特曼将其卖给了一家互联网婚恋公司，赚了5000万美元。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NmRmM2E1NDU1NmRlMWNhZTc0NjczMjM3NjAwMDM1NmFfYkxya1pNVExEdEJiUDI4ZjExNVYydW14VW40MkhMN1lfVG9rZW46Ym94Y25HUFBaZ2pwWHF1elRSWjk3cERmeFRoXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+![img](./assets/(null)-20230222143248738.(null))
 
 赚到钱后，奥特曼就开始当“散财童子”了——他当上了美国创投公司Y Combinator （YC） 的总裁，给美国创业公司投资，他在任期间投资的企业超过2000家。
 
@@ -134,4 +132,4 @@ AI让很多人看到了另一种可能，不需要付出努力的可能。
 
 因为，AI不能坐牢啊！
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NDAyYTI5ZTM0MDA0YmU1MTcyZTc2NzQ5NjNiNjg5NTFfOFo1S1dyWFV2RFFubG1reUdxdG8wWXlSb0hnN3JxTEhfVG9rZW46Ym94Y244eDJTaXY3Qk1nRzA3ZGlMM0VpenFjXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+![img](./assets/(null)-20230222143248645.(null))

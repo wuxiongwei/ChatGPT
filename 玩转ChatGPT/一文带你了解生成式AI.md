@@ -1,6 +1,6 @@
 就在昨天，Antler发表了最新一篇题为《Mapping the Generative AI landscape》关于生成式AI的文章，这篇文章调研了超过170家生成式AI相关的公司和平台，并最终整理出了一张目前来看最全面的生成式AI行业图谱报告，同时还有一张统计表包括这些公司相关的信息数据，比如行业、地点、一句话介绍、成立时间、官网、最新融资轮次和数额、创始人姓名和投资人姓名等。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YmYxNzBlMzNkMmUyZmRmYjQwMjZiY2FmYTY4YzUwYzdfaFd2WjRWSDU5elRHVTNGZXJwanJvWkVJZDZicWIxc29fVG9rZW46Ym94Y24zc2V4SUU2MFh0RnQzYk1rRGNQZnRiXzE2NzcwMzY4NDU6MTY3NzA0MDQ0NV9WNA)
+![img](./assets/(null)-20230222143218908.(null))
 
 # 导语
 
@@ -8,7 +8,7 @@ Antler是一家2018年在新加坡成立的创业社区组织，核心理念是D
 
 PS：本文大部分翻译工作由AI完成 
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=MTU1MDQ1ZGNmYjkzOTA2MjI5NGMwMmRlODI0Y2YxZmRfVFNxRUZCa3Ewc2p5aVNzbGxaUllrODVnUXpCcTRITkJfVG9rZW46Ym94Y25lVVR4UUdUMFZ2Y3dJbTJsZ1JJdzdnXzE2NzcwMzY4NDU6MTY3NzA0MDQ0NV9WNA)
+![img](./assets/(null)-20230222143218873.(null))
 
 # 01 .
 
@@ -86,7 +86,7 @@ AI VS 生成式AI
 - 在艺术、营销和娱乐领域，对个性化和独特内容的需求不断增长，增加了对生成式AI平台的需求。
 - 大量数据和强大计算资源的可用性使得大规模训练和部署这类模型成为可能。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2IxZmJiMzM4ZmEyMWM4YjA2MzVjNTk5ODkzYjI4NDlfckwxTUxCZVMxTWt6TUoza041NE1hdzNxNlA0a2pIT1pfVG9rZW46Ym94Y25XRG1OVFZadXRtd1p3T2xxSkNoWUlkXzE2NzcwMzY4NDU6MTY3NzA0MDQ0NV9WNA)
+![img](./assets/(null)-20230222143218938.(null))
 
 注：在公众号后台回复关键词 【数据】 ，即可获取这些公司相关的信息数据，比如行业、地点、一句话介绍、成立时间、官网、最新融资轮次和数额、创始人姓名和投资人姓名等。
 
@@ -105,13 +105,13 @@ AI VS 生成式AI
 
 在这一领域较为活跃的投资者以及不同的轮次：
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YjMyZmFiOWEyZGI3NDJiM2Q4ZTIwNjNkNzU1MjUwOWFfOXFxaHYzSE95YksxbnVJc1lCRHE0U0hCVGVIRWM5T0RfVG9rZW46Ym94Y25Yc3N6ZlBMbFE3a0t6WnBHbGJTMzFjXzE2NzcwMzY4NDU6MTY3NzA0MDQ0NV9WNA)
+![img](./assets/(null)-20230222143218919.(null))
 
 生成式AI领域的独角兽公司
 
 尽管该行业仍在兴起，但一些独角兽公司已经出现。到目前为止，2019年产生了两只独角兽，2020年产生了一只，2022年产生了四只。
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OTc0YTQxOThhYzUyYmE2N2E0N2I5MDgyOWZiMDdiYzBfTFZBRG5VT0dPdmdtZEp0cnl5N2VRN01LZ1ZHM3dsY2pfVG9rZW46Ym94Y25DdXI5OGJ3Uzd0UjhqN3lkVXZZbktoXzE2NzcwMzY4NDU6MTY3NzA0MDQ0NV9WNA)
+![img](./assets/(null)-20230222143218870.(null))
 
 # 02.
 

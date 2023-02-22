@@ -1,4 +1,10 @@
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2M0OWFkM2MwM2ZlNTA3Njg4OGIyNzNjNmIyNTNlNTlfNUlRV2VMb2pWTGpNWFRVUENqMjBvOTBXTW9mbjVNQmZfVG9rZW46Ym94Y25Tc2tjUEd1aFg3UjZWT1E2SU9sVEthXzE2NzcwMzYzODM6MTY3NzAzOTk4M19WNA)
+业内没有能力去处理AI带来的可能的社会影响
+
+因为人们对它的了解 还很有限
+
+这是最大的问题
+
+![img](./assets/(null)-20230222143101579.(null))
 
 “最近开始玩ChatGPT，的确很惊人。”一位生物学领域的科学家近日在社交媒体上感慨。在他展示的向ChatGPT发起的挑战中，提出的问题包括如何运营公司、如何管理孩子、为何生育率下降，再到中国的文化和政策问题，ChatGPT大多能应对流畅。
 
@@ -8,7 +14,7 @@ ChatGPT是自然语言处理（NLP）中一项引人瞩目的进展，它阅览�
 
 1月12日，在美国一场活动上，曾担任微软董事长的比尔·盖茨表示，他不认为Web3有那么重要，也不认为元宇宙本身是革命性的，但是人工智能却是颇具颠覆性的。当被问及如何看待ChatGPT时，他说，“这让我能一窥未来。整个平台的方法和创新速度都令我印象深刻。”
 
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NTliM2Q0ZmYzZDg5NmM5YTlhNDIzNWIwZGI4NGI4ZGNfMXEzdlhUSDNjcElQZUhac0ZSTDJtQXhrVlhLUE5XOHJfVG9rZW46Ym94Y25rN09ickdLNmhFRlJNWjR5SlJYYWlSXzE2NzcwMzYzODM6MTY3NzAzOTk4M19WNA)
+![img](./assets/(null)-20230222143101616.(null))
 
 最新发布的ChatGPT，在应用层进行了强化训练，提高了对话质量。图/视觉中国
 
@@ -114,3 +120,10 @@ OpenAI是一家非营利性的研究机构，于2015年成立，由特斯拉创�
 
 在他看来，短期来说，ChatGPT等人工智能的应用仍旧是工具式的，它会提高效率、替代一部分工作，但真正值得担心的是，随着计算机能够处理的数据结构、模型、算法越来越膨胀和复杂，里面可能有大量的“黑盒子”运算，人们未必能预测其最终输出的结果。会不会在某个时间点，人工智能会跨越某个关键的节点，进入到一个我们尚未看到的世界，没有人可以预测。
 
+（文中王帅为化名，实习生李金津对本文亦有贡献。）
+
+记者： 彭丹妮
+
+编辑：杜玮
+
+运营编辑：马晓轶 

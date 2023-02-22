@@ -1,6 +1,4 @@
-
-
-![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OTgxOGIzODhiMmI3NDA4ZDA1N2MwYmE5NjQ5YmQ1MDRfZXM4TW00ekd5WVE3MWhMUzAwWEJGUWlvS2p0UnhvQzJfVG9rZW46Ym94Y24yWXFnVkNwM2c3cXJxazZsa2ZrM3NlXzE2NzcwMzY1Njk6MTY3NzA0MDE2OV9WNA)
+![img](./assets/(null)-20230222143136502.(null))
 
 图片来源：视觉中国
 
