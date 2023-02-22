@@ -38,3 +38,28 @@
  [ChatGPT之父传奇8岁会编程2个月做到月活过亿](玩转ChatGPT/ChatGPT之父传奇8岁会编程2个月做到月活过亿.md)  
 
 [假如ChatGPT变得邪恶](玩转ChatGPT/假如ChatGPT变得邪恶.md) 
+
+ [AI算法工程师和分析师们对ChatGPT的看法](玩转ChatGPT/AI算法工程师和分析师们对ChatGPT的看法.md) 
+
+ [ChatGPT可能马上取代你这是它能做的十个工作](玩转ChatGPT/ChatGPT可能马上取代你这是它能做的十个工作.md) 
+
+ [特德姜ChatGPT是网络上的一个模糊的JPEG文件](玩转ChatGPT/特德姜ChatGPT是网络上的一个模糊的JPEG文件.md) 
+
+ [比马斯克还疯癫的人终于出现了](玩转ChatGPT/比马斯克还疯癫的人终于出现了.md) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
