@@ -1,11 +1,3 @@
-> 🔗 原文链接： [https://mp.weixin.qq.com/s?__biz=Mj...](https://mp.weixin.qq.com/s?__biz=MjM5NDYwMjg4Mw==&mid=2247485959&idx=1&sn=c1c2602c252e87a854f6d02dd60a30c6&chksm=a68400eb91f389fd22a058bafe6a16fd7573d69d3eda1183384b89f4ec7ae829684083892c25&mpshare=1&scene=1&srcid=0210OI1n3cr2IL1Czs3OlAo6&sharer_sharetime=1675960998496&sharer_shareid=e9f76e9c632ee55f561d40c923f01b9f#rd)
-
-> ⏰ 剪存时间：2023-02-11 00:55:17 (UTC+8)
-
-> ✂️ 本文档由 飞书剪存 一键生成
-
-GitMind思维导图 *2023-02-09 18:32 发表于 江西*
-
 最近还有比ChatGPT更火的话题吗？上线2个月，月活突破1个亿，见面现在要是不聊几句ChatGPT相关内容，你都跟不上身边人的话题了。
 
 那ChatGPT到底是什么？今天GitMind详细给你介绍介绍。
