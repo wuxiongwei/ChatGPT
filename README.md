@@ -29,9 +29,9 @@
 
  [ChatGPT火了，恐慌来了](玩转ChatGPT/ChatGPT火了，恐慌来了.md) 
 
+ [ChatGPT到底厉害在哪](玩转ChatGPT/ChatGPT到底厉害在哪.md) 
 
+ [圈内深聊：虚拟人的过去、当下与未来](玩转ChatGPT/圈内深聊：虚拟人的过去、当下与未来.md) 
 
-
-
-
+ [ChatGPT引爆又一波AI热潮，什么人需要恐慌](玩转ChatGPT/ChatGPT引爆又一波AI热潮，什么人需要恐慌.md) 
 
