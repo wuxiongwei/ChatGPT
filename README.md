@@ -35,3 +35,6 @@
 
  [ChatGPT引爆又一波AI热潮什么人需要恐慌](玩转ChatGPT/ChatGPT引爆又一波AI热潮什么人需要恐慌.md) 
 
+ [ChatGPT之父传奇8岁会编程2个月做到月活过亿](玩转ChatGPT/ChatGPT之父传奇8岁会编程2个月做到月活过亿.md)  
+
+[假如ChatGPT变得邪恶](玩转ChatGPT/假如ChatGPT变得邪恶.md) 
