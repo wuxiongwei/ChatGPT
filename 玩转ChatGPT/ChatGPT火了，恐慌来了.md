@@ -1,0 +1,137 @@
+以下文章来源于商业风云榜 ，作者白罗
+
+**商业风云榜** .
+
+聚焦商界风云人物，和聪明人对话人生。
+
+**“缠论”曾经风靡全国，忠实的信徒已成长为游资大佬。“缠中说禅”大师虽驾鹤西去，留下的手稿整理成《缠论实战法》，点下方名片，关注“五羊策市”，打暗号“缠论”索取《缠论实战法》电子书。**
+
+作者：白罗
+
+来源：商业风云榜（ID：businessFYB）
+
+如果我告诉你，有一家公司能同时拳打微软、谷歌、苹果，你肯定不信。
+
+但现实就是这么不讲道理，还真有这么一家牛X轰轰的公司——OpenAI。
+
+它研发的ChatGPT，这两天成了刷爆朋友圈的关键词，颠覆了不少人的认知。
+
+说它是聊天软件，那实在是太屈才了，因为它能做的远远超过聊天——但凡是人类需要用文字完成的工作，它都能完成——包括榜姐此刻正在码字写的这篇文章。
+
+**01**
+
+**AI颠覆生活**
+
+以前我们老说机器代替不了人类，因为机器不能像人类一样自主思考。然而，现在一切都不同了，机器不仅能思考，而且还能比人类考虑得更周到。
+
+> 无法获取视频链接
+
+全流程由机器人  p  制作的短视频，机器人写稿，机器人选图，机器人配音，机器人编辑 （除了发布）
+
+ChatGPT的操作流程非常简单，用户登陆后只需要在对话框输入内容就能实现交流。给出关键词，你就可以收获一篇煽情的演讲稿——
+
+![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWQ3NjY4YWRhYzVmNTdiNTEyMTAxM2NiY2YxNTYyNjhfSFF0b2psNlB2QXdxQ25XQ1htbVE1QkQ0QWRrNVJHcE5fVG9rZW46Ym94Y25YeG12MEwxMkE4SGt5S2swNDkwZmloXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+
+同样，你还可以用ChatGPT写剧本，人物、场景和对话应有尽有——
+
+![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OWRhNDU3MGNjZjZlYTBiM2U4NmIzZjhmNDM5YjU2ZGRfQUpSQ2tYNHZ6cTJIeG9PaFhwSDhGV3Uwc08zcFpVazBfVG9rZW46Ym94Y25ueWFKeE43MmZwUnJkWmJ1aVlTQ1NoXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+
+学生们可以用ChatGPT瞒天过海，有个美国学生用AI写作业，结果得了全班最高分。
+
+可能你花了几个小时写的作文，还没有AI用几秒钟生成的文字通顺，这可真让人心态炸裂。
+
+ChatGPT的能力实在太强，以至于在最新的一份调查数据中， **接受采访的美国大学生，竟然有89%的人用ChatGPT写作业。**
+
+这可把一些教授急坏了，他们布置作业是为了考察学生的水平，结果学生现在用AI糊弄老师，这到底是谁考察谁啊？
+
+如果只用ChatGPT写作业，其实属于大材小用，因为它还能干老师的活儿。
+
+美国一位大学教授尝试用ChatGPT写教学大纲，这份教学大纲不仅要包含课程的内容摘要、阅读和作业，甚至还要包含班级纪律。
+
+结果，他得到了一份相当完美的教案，根本不需要他再改动什么。
+
+![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=OGM1ZjFlNmY3MzBjNDYzNWFlYmJmMGEyODEyMTJlZWJfNFVoak9aNjVKeHpWUjM3Q3FIQXljZkpVNlFKYkxqY2NfVG9rZW46Ym94Y25tUGluMnRYT29aaGNFMFc1cUcyVjZkXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+
+还有个教授尝试用ChatGPT写论文，他随机选取了一篇论文的标题，要求AI根据标题生成内容摘要，再根据标题、摘要生成相关论文。
+
+结果不到十分钟，AI为他创作了一篇2200字的“原创”学术论文，内容相当通顺，啥问题都没有。
+
+![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=YTlkZmQzYWQ5MTIwYTk1ODJjODAyODEyOTgzODEzOTZfUEo4eHFjd1RsZ1lRNkU5SzZrRWJ3OUQ1SWJRcnZTeUtfVG9rZW46Ym94Y251dGg1VlI2UlhhSU9XeXhGeVMzMFlkXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+
+ChatGPT带来的颠覆，把整个学术界都吓得够呛。
+
+在它发布一个月后，美国纽约教育局封禁了纽约全部学校网络访问ChatGPT的权限，禁止学生、教师使用它。
+
+法国顶尖大学之一的巴黎政治大学直接向所有师生发邮件，禁止他们使用ChatGPT等一切人工智能工具，避免学术欺诈和剽窃。如果学生使用相关软件，他们可能会被开除，甚至被逐出法国高等教育体系。
+
+权威学术期刊《科学》主编直接表态，严禁使用ChatGPT （或其他人工智能工具） 所生成的文本、数字、图像或图形，人工智能程序不能成为作者，违反者将构成科学不端行为。
+
+另一本权威学术期刊《自然》也表示，人工智能工具不能作为研究论文的署名作者，如果研究人员使用了相关程序，必须在论文中注明。
+
+受到ChatGPT影响的又何止学术界？ **现在互联网圈子都疯了，谷歌、微软、苹果都急着凑上去呢。** 微软准备把AI融入旗下所有产品，谷歌正在加班加点研发人工智能程序，苹果内部忙着准备下周的AI峰会……
+
+咱们国内的互联网公司也成了热锅上的蚂蚁，都在想方设法蹭ChatGPT的概念。
+
+目前动作最快的是百度，早在1月30日，坊间就有消息传出百度准备搞个类似ChatGPT的人工智能聊天服务，现在项目名都出来了，叫“文心一言”。百度预计在3月份完成内测，正式开放。
+
+不用怀疑，互联网行业马上就要迎来一片血雨腥风了。
+
+**02**
+
+**一切只为盈利**
+
+ChatGPT是由美国互联网公司OpenAI研发的，这家公司的CEO山姆·奥特曼 （Sam Altman） 也是个神人。
+
+奥特曼出生在一个相当富裕的犹太家庭，小小年纪就能拆苹果电脑，8岁写电脑编程。中学毕业后，奥特曼考上了斯坦福大学，结果读到大二，他就跟两个朋友一块辍学了，三人一起开发了手机定位应用程序Loopt。
+
+Loopt是一款共享位置的应用程序，曾得到过1.75亿美元的估值。不过，这款程序在后期的影响力越来越小， **2012年，奥特曼与另外两位创始人以4300万美元卖掉了它。**
+
+值得一提的是，Loopt联合创始人之一尼克·西沃是奥特曼的男朋友，两人在卖掉Loopt后分手。
+
+此后，奥特曼又开发了免费在线约会应用程序“OKCupid （OK丘比特） ”，这款交友软件被称为“网上约会的谷歌”，风靡一时。
+
+最终，奥特曼将其卖给了一家互联网婚恋公司，赚了5000万美元。
+
+![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NmRmM2E1NDU1NmRlMWNhZTc0NjczMjM3NjAwMDM1NmFfYkxya1pNVExEdEJiUDI4ZjExNVYydW14VW40MkhMN1lfVG9rZW46Ym94Y25HUFBaZ2pwWHF1elRSWjk3cERmeFRoXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)
+
+赚到钱后，奥特曼就开始当“散财童子”了——他当上了美国创投公司Y Combinator （YC） 的总裁，给美国创业公司投资，他在任期间投资的企业超过2000家。
+
+在美国硅谷，奥特曼绝对是个响当当的人物。
+
+**他在给创业公司投资期间，自己也在创业** ——2015年，特斯拉CEO马斯克联合奥特曼、领英创始人霍夫曼、YC合伙人利文斯顿等人共同创立了人工智能研究公司OpenAI。
+
+OpenAI的成立，其实非常理想化，据说是在一次饭局上，马斯克与几名AI研发人员讨论，他们认为人工智能会接管世界，所以他们计划建立一家不以追求利润为目标的AI研究机构，全面开源，将人工智能技术分享给每一个人。
+
+马斯克作为OpenAI的创始人之一，中途就退出了。因为 **在发展过程中，马斯克与OpenAI之间的利益冲突越来越多** ——2017年，OponAI研究员、斯坦福大学博士Andrej Karpathy跳槽到了特斯拉，并且担任人工智能及自动驾驶视觉总监。
+
+这件事让马斯克备受争议，2018年，马斯克从OpenAI的董事会退出，变成了它的赞助者与顾问。
+
+马斯克从OpenAI退出后，对它是又爱又恨，他一边赞叹OpenAI的技术水平之高，一边又批评OpenAI不能放开源代码，违背了成立的初心。
+
+然而，OpenAI很难为爱发电，虽然这家公司的创始人都不缺钱， **但它实在太烧钱了，** 一个研究动辄几千万美元就砸进去了。
+
+于是，在现实的压力下，OpenAI必须得赚钱，他们开始转变性质，卖技术——2019年，OpenAI收到了来自微软的10亿美元注资。
+
+赚的没有花的多，也让OpenAI的日子并没有想象的那么风光，他们迫切地想要赚钱。在ChatGPT爆火之后，很快，OpenAI就推出了VIP收费服务，每月支付20美元就能在高峰段继续使用ChatGPT。
+
+奥特曼更是对投资者表示，公司很快就能通过收费获得10亿美元的年收入。
+
+走到这一步，OpenAI成立的初衷，也就不存在了。
+
+**03**
+
+**结语**
+
+ChatGPT的确是在全球爆火了，但是它带来的恐慌却并不小。
+
+影响最大的就是学术界，AI技术的出现的确是颠覆性的，你不再需要费力费神学习，只需要几个关键词，就能轻松写出一篇漂亮的学术论文。
+
+AI让很多人看到了另一种可能，不需要付出努力的可能。
+
+也许，真的就像是马斯克等人预言的那样， **人工智能会在某一天取代人类，** 帮你学习，帮你工作，帮你完成你的“人生”。
+
+不过，你也别太担心，有些行业AI永远也取代不了，比如律师，比如会计。
+
+因为，AI不能坐牢啊！
+
+![img](https://weknowlib.feishu.cn/space/api/box/stream/download/asynccode/?code=NDAyYTI5ZTM0MDA0YmU1MTcyZTc2NzQ5NjNiNjg5NTFfOFo1S1dyWFV2RFFubG1reUdxdG8wWXlSb0hnN3JxTEhfVG9rZW46Ym94Y244eDJTaXY3Qk1nRzA3ZGlMM0VpenFjXzE2NzcwMzczMDY6MTY3NzA0MDkwNl9WNA)

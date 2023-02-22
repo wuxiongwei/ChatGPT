@@ -27,7 +27,7 @@
 
  [一文带你了解生成式AI](玩转ChatGPT/一文带你了解生成式AI.md) 
 
-
+ [ChatGPT火了，恐慌来了.md](玩转ChatGPT/ChatGPT火了，恐慌来了.md) 
 
 
 
