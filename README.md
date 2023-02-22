@@ -7,15 +7,15 @@
 
  [2023年全网收录最全AI应用集](AI应用集/2023年全网收录最全AI应用集.md) 
 
- [如何注册使用 ChatGPT](玩转ChatGPT/如何注册使用 ChatGPT.md) 
+ [如何注册使用 ChatGPT](玩转ChatGPT/如何注册使用ChatGPT.md) 
 
  [手把手教你如何注册ChatGPT](玩转ChatGPT/手把手教你如何注册ChatGPT.md) 
 
- [只需 1 元搞定 ChatGPT 注册 ](玩转ChatGPT/只需 1 元搞定 ChatGPT 注册.md) 
+ [只需 1 元搞定 ChatGPT 注册 ](玩转ChatGPT/只需1元搞定ChatGPT注册.md) 
 
- [如何开通 ChatGPT Plus ](玩转ChatGPT/如何开通 ChatGPT Plus.md) 
+ [如何开通 ChatGPT Plus ](玩转ChatGPT/如何开通ChatGPTPlus.md) 
 
- [chatgpt PLUS 会员申请步骤](玩转ChatGPT/chatgpt PLUS 会员申请步骤.md) 
+ [chatgpt PLUS 会员申请步骤](玩转ChatGPT/chatgptPLUS会员申请步骤.md) 
 
  [ChatGPT将如何改变我们的学习？知识工作者越早知道越好](玩转ChatGPT/ChatGPT将如何改变我们的学习？知识工作者越早知道越好.md) 
 
