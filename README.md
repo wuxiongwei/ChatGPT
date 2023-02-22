@@ -13,7 +13,7 @@
 
  [只需 1 元搞定 ChatGPT 注册 ](玩转ChatGPT/只需1元搞定ChatGPT注册.md) 
 
- [如何开通 ChatGPT Plus ](玩转ChatGPT/如何开通ChatGPTPlus.md) 
+ [如何开通ChatGPTPlus](玩转ChatGPT/如何开通ChatGPTPlus.md) 
 
  [chatgpt PLUS 会员申请步骤](玩转ChatGPT/chatgptPLUS会员申请步骤.md) 
 
