@@ -7,7 +7,9 @@
 
  [2023年全网收录最全AI应用集](AI应用集/2023年全网收录最全AI应用集.md) 
 
- [国内如何注册使用 ChatGPT ](玩转ChatGPT/国内如何注册使用 ChatGPT.md) 
+ [国内如何注册使用 ChatGPT ](玩转ChatGPT/国内如何注册使用 ChatGPT.md)  
+
+[国内如何注册使用 ChatGPT](玩转ChatGPT/国内如何注册使用 ChatGPT.md) 
 
  [手把手教你如何注册ChatGPT](玩转ChatGPT/手把手教你如何注册ChatGPT.md) 
 
