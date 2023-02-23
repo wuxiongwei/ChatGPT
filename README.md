@@ -57,6 +57,24 @@
 
  [ChatGPT商业角度的讨论观察和笔记](商业观察/ChatGPT商业角度的讨论观察和笔记.md) 
 
+ [AIGC这波技术狂潮能否商业化落地](商业观察/AIGC这波技术狂潮能否商业化落地.md) 
+
+ [ChatGPT开启了一个时代但与之竞争已成为局部战争](商业观察/ChatGPT开启了一个时代但与之竞争已成为局部战争.md) 
+
+ [ChatGPT背后的经济账](商业观察/ChatGPT背后的经济账.md) 
+
+ [百度豪赌ChatGPT本土AIGC市场路向何方](商业观察/百度豪赌ChatGPT本土AIGC市场路向何方.md) 
+
+ [连投16家公司OpenAI投资版图揭秘](商业观察/连投16家公司OpenAI投资版图揭秘.md) 
+
+ [ChatGPT核心成员出走打造的Cloude将为ChatGPT最强对手](商业观察/ChatGPT核心成员出走打造的Cloude将为ChatGPT最强对手.md) 
+
+
+
+
+
+
+
 
 
 
