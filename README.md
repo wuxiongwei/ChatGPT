@@ -69,7 +69,7 @@
 
  [ChatGPT核心成员出走打造的Cloude将为ChatGPT最强对手](商业观察/ChatGPT核心成员出走打造的Cloude将为ChatGPT最强对手.md) 
 
-
+ [ChatGPT会取代搜索引擎吗](商业观察/ChatGPT会取代搜索引擎吗.md) 
 
 
 
